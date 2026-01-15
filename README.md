@@ -38,4 +38,4 @@ doi = {10.2139/ssrn.3327135}
 
 # Attention
 
-- `data/heston/train.csv` is not uploaded for it's so large.
+- `data/heston/train.csv` is not uploaded for it's so large. In fact, I split it into two parts, and upload `data/heston/train1.csv` and `data/heston/train2.csv`. 
